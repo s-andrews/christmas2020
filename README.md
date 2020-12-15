@@ -7,7 +7,7 @@ As a year 2020 sucked pretty hard, but happy Christmas from Babraham Bioinformat
 
 Running the code
 ----------------
-To run the christmas2020.R code you will need to install some packages if you don't have them already
+To run the ```christmas2020.R``` code you will need to install some packages if you don't have them already
 
 ```
 install.packages("devtools")
