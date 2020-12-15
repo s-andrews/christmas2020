@@ -30,6 +30,6 @@ card <- ggarrange(
 if (interactive()) {
   print(card)
 }else {
-  ggsave(plot=card, filename="christmas2020.png",height=8,width=7)
+  ggsave(plot=card, filename="christmas2020.png",height=6,width=5)
 }
 
