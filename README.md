@@ -3,7 +3,7 @@ Happy Christmas 2020
 
 As a year 2020 sucked pretty hard, but happy Christmas from Babraham Bioinformatics anyway!
 
-<img src="https://raw.githubusercontent.com/s-andrews/christmas2020/main/christmas2020.png" height="20%" width="20%">
+<img src="https://raw.githubusercontent.com/s-andrews/christmas2020/main/christmas2020.png" height="50%" width="50%">
 
 Running the code
 ----------------
